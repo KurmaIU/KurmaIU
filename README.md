@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hello! 😃</h1>
-  <h3 align="center">I'm a Developer and Low Level Learner. 🧑🏻‍💻</h3>
+  <h3 align="center">I'm a Developer and Low Level Learner.</h3>
   <div align="center">
     <br/>
     <p><img src="https://skillicons.dev/icons?i=linux,windows" /></p>
